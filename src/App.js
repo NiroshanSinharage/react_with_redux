@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           This is deployed as App Service with CI/CD pipeline.
+          Date: 06/04/2020
         </p>
         <a
           className="App-link"
